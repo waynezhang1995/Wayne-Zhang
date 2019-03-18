@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wayne-zhang/precache-manifest.0e5beaf765799fd409faf73cf799ab1b.js"
+  "/Wayne-Zhang/precache-manifest.46e6b51dead1aa8db12ee6b0dc097c63.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/wayne-zhang/index.html", {
+workbox.routing.registerNavigationRoute("/Wayne-Zhang/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
