@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
-import Typography from '@material-ui/core/Typography';
 import { withStyles } from '@material-ui/core/styles';
 import ExperiencePanel from '../experience-panel/ExperiencePanel';
 import SkillPanel from '../skill-panel/SkillPanel';
+import EducationPanel from '../education-panel/EducationPanel';
 import ProjectTabPanel from '../project-tabpanel/ProjectTabPanel';
 import SwipeableViews from 'react-swipeable-views';
 import './DetailTabPanel.css';
@@ -15,14 +15,6 @@ const styles = {
     tabPanelText: 'tabPanelText',
     tabContainer: 'tabContainer'
 }
-
-function TabContainer(props) {
-    return (
-      <Typography component="div" style={{ padding: 8 * 3 }}>
-        {props.children}
-      </Typography>
-    );
-  }
 
 class DetailTabPanel extends Component {
 
@@ -54,20 +46,13 @@ class DetailTabPanel extends Component {
                         <Tab className={styles.tabPanelText} label="My Skills" />
                         <Tab className={styles.tabPanelText} label="My Personal Projects" />
                         <Tab className={styles.tabPanelText} label="My Education" />
-                        <Tab className={styles.tabPanelText} label="My Awards" />
                     </Tabs>
                 </AppBar>
-                {/* {value === 0 && <ExperiencePanel></ExperiencePanel>}
-                {value === 1 && <SkillPanel></SkillPanel>}
-                {value === 2 && <ProjectTabPanel></ProjectTabPanel>}
-                {value === 3 && <TabContainer>Item Three</TabContainer>}
-                {value === 4 && <TabContainer>Item Three</TabContainer>} */}
                 <SwipeableViews animateHeight={true} className={styles.tabContainer} axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'} index={this.state.value} onChangeIndex={this.handleChangeIndex}>
                     <ExperiencePanel dir={theme.direction}></ExperiencePanel>
                     <SkillPanel dir={theme.direction}></SkillPanel>
                     <ProjectTabPanel dir={theme.direction}></ProjectTabPanel>
-                    <TabContainer dir={theme.direction}>Coming soon</TabContainer>
-                    <TabContainer dir={theme.direction}>Item Three</TabContainer>
+                    <EducationPanel dir={theme.direction}></EducationPanel>
                 </SwipeableViews>
             </div>
         );
