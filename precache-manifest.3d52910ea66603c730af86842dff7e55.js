@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Wayne-Zhang/static/media/self.b4e29e01.jpeg"
   },
   {
-    "revision": "7a603744190092d57020",
-    "url": "/Wayne-Zhang/static/css/main.efea1056.chunk.css"
+    "revision": "dea886f751a6575b61cf",
+    "url": "/Wayne-Zhang/static/css/main.44f8d4d7.chunk.css"
   },
   {
     "revision": "6cc53a719038935bd131",
@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/Wayne-Zhang/static/media/Victutor.a0502aa5.png"
   },
   {
-    "revision": "0f7fb57c66859f7048f3",
-    "url": "/Wayne-Zhang/static/js/2.29caace8.chunk.js"
+    "revision": "9263457b0768530bb716",
+    "url": "/Wayne-Zhang/static/js/2.19ca5129.chunk.js"
   },
   {
-    "revision": "7a603744190092d57020",
-    "url": "/Wayne-Zhang/static/js/main.a47290f4.chunk.js"
+    "revision": "dea886f751a6575b61cf",
+    "url": "/Wayne-Zhang/static/js/main.5f93338b.chunk.js"
   },
   {
     "revision": "6fef13c90a48e5545688fcc0f70fb6cb",
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "/Wayne-Zhang/static/media/TrybaiduExtension.efdd3c9d.png"
   },
   {
-    "revision": "0f7fb57c66859f7048f3",
+    "revision": "9263457b0768530bb716",
     "url": "/Wayne-Zhang/static/css/2.0a8e5afe.chunk.css"
   },
   {
-    "revision": "f3a0d95b4f2365788ac10fbd02dce414",
+    "revision": "7ae932dccaa3057aa082c0ef054a339d",
     "url": "/Wayne-Zhang/index.html"
   }
 ];
