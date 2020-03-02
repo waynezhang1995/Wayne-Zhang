@@ -1,7 +1,7 @@
 {
   "Name": "Wayne (Yuwei) Zhang",
   "Position": "Web Developer",
-  "Description": "Welcome to my website. My name is Wayne Zhang, I am a computer science new grad and a web developer.",
+  "Description": "Welcome to my website. I am a Full Stack Developer focused on Frontend",
   "Address": "Vancouver BC. Canada",
   "Company": "Global Relay",
   "School": "University of Victoria",
@@ -18,7 +18,7 @@
       "roles": [
         {
           "title": "Software developer",
-          "description": "Developed web-based management system for a variety of products in Global Relay. Mostly focus on Front-End Development (React, Redux, SenCha EXTjs), partially work on maintaining backend core services (ASP.NET, Hibernate).",
+          "description": "Developed web-based management system for a variety of products in Global Relay. Built fully-interactive UI using React, Redux and Extjs (Sencha) frontend framework. Developed and maintained backend core service using C# ASP.NET, .NET Core (Hibernate, Microsoft SQL). Write Code to support development of automated frameworks and tests (Unit test, Functional test). Worked on an Agile development team.",
           "startDate": "2018-01-08",
           "currentJob": true,
           "location": "Vancouver BC. Canada"
@@ -27,12 +27,12 @@
     },
     {
       "companyName": "Redbrick Technologies",
-      "logo": "https://d2qgpjhi4289da.cloudfront.net/image_encoded/aHR0cHM6Ly9zaWxrc3RhcnQuczMuYW1hem9uYXdzLmNvbS81N2RhYmY2NTJlZjIwMjE1M2FmNjgzYjIucG5n/200x200fPNG",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEthuaB2TyIQQ/company-logo_200_200/0?e=1591228800&v=beta&t=v6UHI02hqtBV7W_fJXcoTSHn1yroj-MsTj9rYRPUK3s",
       "url": "https://rdbrck.com/",
       "roles": [
         {
           "title": "Full Stack Developer (Co-op)",
-          "description": "Built and updated various Chrome Extensions using TypeScript. (http://quiklogin.co/). Worked with a small team to maintain privacy-enhanced search engine applications. ",
+          "description": "Developed various Chrome Extensions using TypeScript including: QuikLogin, Search. Settings, Invisy Search etc. Worked with a small team to maintain privacy-enhanced search engine applications. (www.invisy.com, https://searchshield.co ). Worked on an Agile development team.",
           "startDate": "2017-01-01",
           "endDate": "2017-05-01",
           "location": "Victoria BC. Canada"
@@ -116,7 +116,7 @@
           "Hot": false
         },
         {
-          "Name": "Jamine JavaScript Unit Test",
+          "Name": "JavaScript Unit Test (Jasmine, Jest)",
           "Hot": true
         },
         {
@@ -175,6 +175,10 @@
           "Hot": true
         },
         {
+          "Name": "Jest",
+          "Hot": true
+        },
+        {
           "Name": "MSTest",
           "Hot": false
         },
@@ -185,7 +189,7 @@
       ]
     },
     {
-      "Area": "Software Development Tools and Concepts",
+      "Area": "Software Development Tools and Methodologies",
       "SkillSet": [
         {
           "Name": "Git",
