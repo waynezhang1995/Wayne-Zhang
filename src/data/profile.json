@@ -13,7 +13,7 @@
   "experiences": [
     {
       "companyName": "eBay",
-      "logo": "https://cdn.vox-cdn.com/thumbor/pXKciY6qt7jhCAqcq3uSA869sDs=/47x0:3305x1706/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19773385/ebay_logo.jpg",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXGxuLfDlrnw/company-logo_200_200/0?e=1594857600&v=beta&t=5_uDPbSl_E2JsiE6bBOMmB818cw9i3KWbgj1FPDcV6k",
       "url": "https://www.ebay.ca/",
       "roles": [
         {
@@ -21,7 +21,7 @@
           "description": "",
           "startDate": "2020-04-27",
           "currentJob": true,
-          "location": "Toronto BC. Canada"
+          "location": "Toronto ON. Canada"
         }
       ]
     },
