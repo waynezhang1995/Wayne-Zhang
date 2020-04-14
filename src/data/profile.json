@@ -2,8 +2,8 @@
   "Name": "Wayne (Yuwei) Zhang",
   "Position": "Web Developer",
   "Description": "Welcome to my website. I am a Full Stack Developer focus on Frontend",
-  "Address": "Vancouver BC. Canada",
-  "Company": "Global Relay",
+  "Address": "Toronto, ON, Canada",
+  "Company": "eBay",
   "School": "University of Victoria",
   "SocialMedias": [
     "https://github.com/waynezhang1995",
@@ -11,6 +11,20 @@
     "https://www.facebook.com/wayne.zhang.3"
   ],
   "experiences": [
+    {
+      "companyName": "eBay",
+      "logo": "https://cdn.vox-cdn.com/thumbor/pXKciY6qt7jhCAqcq3uSA869sDs=/47x0:3305x1706/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19773385/ebay_logo.jpg",
+      "url": "https://www.ebay.ca/",
+      "roles": [
+        {
+          "title": "Software Engineer 3",
+          "description": "",
+          "startDate": "2020-04-27",
+          "currentJob": true,
+          "location": "Toronto BC. Canada"
+        }
+      ]
+    },
     {
       "companyName": "Global Relay",
       "logo": "https://pbs.twimg.com/profile_images/696800751998271488/ed2NAzEt_400x400.png",
