@@ -41,7 +41,7 @@
     },
     {
       "companyName": "Redbrick Technologies",
-      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEthuaB2TyIQQ/company-logo_200_200/0?e=1591228800&v=beta&t=v6UHI02hqtBV7W_fJXcoTSHn1yroj-MsTj9rYRPUK3s",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEthuaB2TyIQQ/company-logo_200_200/0?e=1601510400&v=beta&t=Lxdk_Zs8BDoUElZydTm35-OI873ntaUMxiyDXjH5pGg",
       "url": "https://rdbrck.com/",
       "roles": [
         {
@@ -229,25 +229,25 @@
       "Name": "TryBaidu Chrome Extension",
       "Description": "A chrome extension that saves your time from switching between Baidu and Google",
       "ScreenShotURL": "./TrybaiduExtension.png",
-      "ProjectLink":"https://github.com/waynezhang1995/TryBaidu-Chrome-Extension"
+      "ProjectLink": "https://github.com/waynezhang1995/TryBaidu-Chrome-Extension"
     },
     {
       "Name": "BlackJack Simulator written in React",
       "Description": "A simple web-based Blackjack simulator written in React 🎉",
       "ScreenShotURL": "./BlackjackSimulator.png",
-      "ProjectLink":"https://github.com/waynezhang1995/Blackjack-Simulator"
+      "ProjectLink": "https://github.com/waynezhang1995/Blackjack-Simulator"
     },
     {
       "Name": "Victutors.com",
       "Description": "A tutor finding website in Victoria B.C.",
       "ScreenShotURL": "./Victutor.png",
-      "ProjectLink":"https://github.com/waynezhang1995/Victutors.com-Deprecated"
+      "ProjectLink": "https://github.com/waynezhang1995/Victutors.com-Deprecated"
     },
     {
       "Name": "React Material UI Personal Resume Website Template",
       "Description": "A personal resume website template written in React with Material UI theme.",
       "ScreenShotURL": "./PersonalWebsiteTemplate.png",
-      "ProjectLink":"https://github.com/waynezhang1995/Personal-Website"
+      "ProjectLink": "https://github.com/waynezhang1995/Personal-Website"
     }
   ],
   "Education": [
