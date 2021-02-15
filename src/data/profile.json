@@ -1,7 +1,7 @@
 {
   "Name": "Wayne (Yuwei) Zhang",
   "Position": "Web Developer",
-  "Description": "Welcome to my website. I am a Full Stack Developer focus on Frontend",
+  "Description": "Welcome to my website. I am a Full Stack Developer with a Front-end focus",
   "Address": "Toronto, ON, Canada",
   "Company": "eBay",
   "School": "University of Victoria",
@@ -13,7 +13,7 @@
   "experiences": [
     {
       "companyName": "eBay",
-      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEYVQUuW-Vlaw/company-logo_200_200/0?e=1606953600&v=beta&t=SoKHBgUYymn13OcaZisq1cAl5N2ZUrNjFjDgs9zjPt0",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEkF1Wg9O0now/company-logo_200_200/0/1612454639799?e=1621468800&v=beta&t=ctOh7NBbDOcco0qvYSMhg_QC_Eef2R6U7M2MAPehkX0",
       "url": "https://www.ebay.ca/",
       "roles": [
         {
@@ -110,6 +110,14 @@
           "Hot": true
         },
         {
+          "Name": "Marko Js",
+          "Hot": true
+        },
+        {
+          "Name": "Storybook",
+          "Hot": true
+        },
+        {
           "Name": "Redux",
           "Hot": false
         },
@@ -122,7 +130,7 @@
           "Hot": false
         },
         {
-          "Name": "NPM",
+          "Name": "Npm/Yarn",
           "Hot": false
         },
         {
@@ -132,6 +140,10 @@
         {
           "Name": "JavaScript Unit Test (Jasmine, Jest)",
           "Hot": true
+        },
+        {
+          "Name": "Testing Library",
+          "Hot": false
         },
         {
           "Name": "WebPack",
