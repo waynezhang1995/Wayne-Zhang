@@ -12,15 +12,29 @@
   ],
   "experiences": [
     {
+      "companyName": "Coinbase",
+      "logo": "https://cdn-images-1.medium.com/max/1200/1*4c7_SNuureECLAy7nW8TKQ.png",
+      "url": "https://www.coinbase.com/",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "description": "Work on supporting client foundation infrastructure of all apps made by Coinbase. Build full stack data layer and toolings to enable the Front-end teams to achieve quality and velocity at scale.",
+          "startDate": "2021-10-12",
+          "currentJob": true,
+          "location": "Toronto ON. Canada"
+        }
+      ]
+    },
+    {
       "companyName": "eBay",
       "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEjpwMXGZsDIA/company-logo_200_200/0/1620836315305?e=1638403200&v=beta&t=p_M2OGlVO8XWDudehx1dpuUawV_vQj7DoWn2Z1oN_TU",
       "url": "https://www.ebay.ca/",
       "roles": [
         {
           "title": "Software Engineer 3",
-          "description": "",
+          "description": "Build analytic applications to empower selling experience. Design and architect the Front-end applications with Node expressJs, MarkoJs, and various modern Front-end tools and technologies",
           "startDate": "2020-04-27",
-          "currentJob": true,
+          "endDate": "2021-10-12",
           "location": "Toronto ON. Canada"
         }
       ]
@@ -34,7 +48,7 @@
           "title": "Software developer",
           "description": "Developed web-based management system for a variety of products in Global Relay. Built fully-interactive UI using React, Redux and Extjs (Sencha) frontend framework. Developed and maintained backend core service using C# ASP.NET, .NET Core (Hibernate, Microsoft SQL). Write Code to support development of automated frameworks and tests (Unit test, Functional test). Worked on an Agile development team.",
           "startDate": "2018-01-08",
-          "currentJob": true,
+          "endDate": "2020-04-01",
           "location": "Vancouver BC. Canada"
         }
       ]
@@ -95,7 +109,11 @@
         },
         {
           "Name": "TypeScript",
-          "Hot": false
+          "Hot": true
+        },
+        {
+          "Name": "GraphQL",
+          "Hot": true
         },
         {
           "Name": "HTML5",
