@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "322ec5f7b95848c974b3",
+    "revision": "f1633f4f3785805cad1b",
     "url": "/Wayne-Zhang/static/css/main.e384b2a4.chunk.css"
   },
   {
-    "revision": "322ec5f7b95848c974b3",
-    "url": "/Wayne-Zhang/static/js/main.9aa160ae.chunk.js"
+    "revision": "f1633f4f3785805cad1b",
+    "url": "/Wayne-Zhang/static/js/main.55fb94fb.chunk.js"
   },
   {
     "revision": "6cc53a719038935bd131",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Wayne-Zhang/static/media/Victutor.a0502aa5.png"
   },
   {
-    "revision": "92021f4664f9081003730031da33a231",
+    "revision": "79a7c4e33c753c17967a88528322a72d",
     "url": "/Wayne-Zhang/index.html"
   }
 ];
